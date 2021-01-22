@@ -1,2 +1,2 @@
 # sistemaEventos
-Projeto do sistema de marcacao de eventos ocorridos na faculdade Mackenzie Presbiteriana.
+Projeto do sistema de marcação de eventos ocorridos na faculdade Mackenzie Presbiteriana.
